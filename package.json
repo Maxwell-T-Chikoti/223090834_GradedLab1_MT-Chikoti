@@ -12,6 +12,7 @@
   "dependencies": {
         "react": "^18.0.0",
         "react-dom": "^18.0.0",
+        "axios": "^x.x.x",
         "react-scripts": "4.0.3",
         "react-spinners": "^0.13.0"
     },
